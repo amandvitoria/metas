@@ -7,6 +7,7 @@
   
   
   
+  
 ## Descrição
   
 Este trabalho é sobre um  calculo de salario, para ver o salario final de um funcionario baseando-se se suas metas de 20000 semanalmente e 80000 mensalmente, foram atingidas por porcentagem de 1%, 5% e 10 % de  acordo com a quantidade de vendas que ele fez.
@@ -20,7 +21,7 @@ Este trabalho é sobre um  calculo de salario, para ver o salario final de um fu
 * código em php que tem campos onde o usuário pode colocar o valor feito na semana e no mês e ele calcula a porcentagem da renda final.
 
 
-
+![gif](imagem/Gravando-2024-03-27-120929.gif)
 
 
 
