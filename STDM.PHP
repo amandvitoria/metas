@@ -5,9 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>CÁLCULO DE METAS</title>
   <link rel='stylesheet' type='text/css' media='screen' href='estilizacao.css'>
-<style>
 
-</style>
 
 </head>
 <body>
